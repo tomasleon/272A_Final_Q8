@@ -22,4 +22,4 @@ ggplot(q8_subset, aes(x = as.factor(year), y = "ADD APPROPRIATE COLUMN NAME HERE
   ylab("ADD Y LABEL") +
   theme_minimal()
 
-ggplot(q8_subset, aes("ADD APPROPRIATE COLUMN NAME HERE") + geom_histogram(bins = "SELECT NUMBER OF BINS")
+ggplot(q8_subset, aes("ADD APPROPRIATE COLUMN NAME HERE")) + geom_histogram(bins = "SELECT NUMBER OF BINS")
