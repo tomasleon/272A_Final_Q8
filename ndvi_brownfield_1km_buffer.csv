@@ -1,118 +1,106 @@
-Site,Address,Lat_DD,Lon_DD,City,Zip_Code,County,ID,Other_Issu,Land_Use__,Indoor_Air,Media_Sedi,Media_Soil,Media_Grou,Media_Surf,Acreage,Legal_Desc,Date_of_Re,Project_St,Date_of_Co,Applicant,ndvi_mean
-5S Gas Station,321 West Main Street,40.0872,-108.8075,Rangely,81648,RIO BLANCO,52,Underground Storage Tank;#3,COMMERCIAL,,,Petroleum contaminated soils;#360;#BTEX;#6;#TPH;#10,TPH;#10;#BTEX;#6,,0.3,"SUB:WHITE SUBDIVISION BLK:D LOT:9,10 & LOT:11,12 RECPT:284504 RECPT:277968 RECPT:277967 BK:591 PG:143 RECPT:277257 BK:0489 PG:0003 BK:0473 PG:0311 BK:0468 PG:0632 BK:0439 PG:0361 BK:0377 PG:0518 PRE:R100846 TO:R990323",2002/12/31,Completed,2004/10/22,Town of Rangely,0.305944288
-A.R. Mitchell Museum of Western Art,150 E. Main Street,37.168958,-104.504917,Trinidad,81082,LAS ANIMAS,87,Brownfield Assessment;#6,COMMERCIAL,,,,,,1,,2013/01/02,Completed,2013/02/12,Town of Trinidad,0.35569871
-Alamosa Power Plant (aka Former Public Service Company Power Plant,803 1/2 8th Street,37.4654,-105.8688,Alamosa,81101,ALAMOSA,6,,INDUSTRIAL,,,PAH's;#13;#Lead;#7,PAH's;#13;#PCE;#12,,3.7,,2003/09/11,Completed,2004/02/23,City of Alamosa,0.428052664
-Argo Mine Site,1.5 Miles west of Jamestown on Highway 94 (Left Hand Canyon Drive),40.1297,-105.4006,Jamestown,80481,BOULDER,11,Mine Scarred Land Site;#7,OTHER,,Arsenic;#8;#Lead;#7;#Mine Waste/Tailings;#3,Arsenic;#8;#Lead;#7;#Mine Waste/Tailings;#3,,Lead;#7;#Heavy Metals;#9,13.73,,2003/10/28,Completed,2004/11/04,Boulder County,0.574402151
-Aztlan Center,200 Willow Street,40.5927,-105.075,Fort Collins,80524,LARIMER,36,Landfill;#9,RECREATIONAL,,,Methane;#14;#Coal Fill;#23;#BTEX;#6;#PCE;#12,PAH's;#13;#Coal Fill;#23;#BTEX;#6;#MTBE/TPH;#26;#PCE;#12,,19.1,,2002/11/05,Completed,2004/01/23,City of Fort Collins,0.412813332
-Bayfield Open Space Site,Intersection of State Highway 160 and West Mill Street,37.2236,-107.6037,Bayfield,81122,LA PLATA,33,,RECREATIONAL,,,Arsenic;#8;#Lead;#7,,,18.9,,2003/04/01,Completed,2003/12/19,Town of Bayfield and Bayfield School District,0.572746659
-Bayfield School Site,Intersection of E South St and S East St,37.2239,-107.5993,Bayfield,81122,LA PLATA,34,,COMMERCIAL,,,,,,4.6,,2003/04/01,Completed,2003/12/19,Bayfield School District,0.558251717
-Bellview Hudson West Site,Interstate 70 South Frontage Road east of the Town of Empire,39.7589,-105.7733,Empire,80438,CLEAR CREEK,15,,COMMERCIAL,,,Lead;#7;#Heavy Metals;#9;#Arsenic;#8,,,23.8,,2006/02/01,Completed,2006/07/11,Clear Creek County,0.565315489
-Buckshot Industries,17576 Highway 96,38.2169,-103.7343,Ordway,81063,CROWLEY,21,Landfill;#9,COMMERCIAL,,,Asbestos;#2;#Heavy Metals;#9;#MTBE/TPH;#26,,,8,"10800755-Â Â  ALL THAT PT OF SW4NW4 SEC 4 -23-73 AKA TR 9 & LOTS 3, 4, 7 & PT OF LOT 8 BLK K & PT OF PLATTED ROAD BETWEEN BLK'S K & L ALPINE COLONYÂ 
-",2007/01/18,Completed,2007/09/17,Crowley County,0.267892141
-Carribeau Tailings Reclamation Site,"Adjacent to Howard Fork River, across from County Road D65 approximately 1 mile downstream of Ophir, CO",37.7726,-107.7673,Ophir,81426,SAN MIGUEL,60,WQCD;#15,RECREATIONAL,,Arsenic;#8;#Heavy Metals;#9;#Lead;#7,Arsenic;#8;#Heavy Metals;#9;#Lead;#7,,Arsenic;#8;#Heavy Metals;#9;#Lead;#7,7,,2002/02/19,Withdrawn,,San Miguel County,0.682552669
-Centennial Park Expansion,4630 South Decatur Street,39.6331,-105.0238,Englewood,80110,ARAPAHOE,9,Landfill;#9,COMMERCIAL,Methane;#4,,,Heavy Metals;#9;#VOC's;#4,,9.4,,2000/12/06,Completed,2001/03/31,City of Englewood,0.357528126
-Cherry Creek 18 / Duffy Property Site,1700 South Quebec Street,39.6849,-104.901,Glendale,80231,ARAPAHOE,7,Landfill;#9,MIXED - INDUST+COM,,,Lead;#7;#PAH's;#13;#Heavy Metals;#9;#Methane;#14,,,12,,2005/03/03,Completed,2005/09/13,The Trust for Public Land,0.49962143
-Chicken and New Deal,"Located on the upper slopes of Commodore Basin, almost due south of the Barstow Mine",37.9211,-107.7179,Ouray,0,OURAY,42,,RECREATIONAL,,,Lead;#7,,,40,,2007/05/08,Completed,2008/01/23,Trust for Land Restoration,0.52432133
-Cinnamon Gulch/Peru Creek and Pennsylvania Mine Site,"Cinnamon Gulch and the Peru Creek drainage are located approximately 14 miles east of Dillion and 4 miles northeast of Montezuma, CO",39.6003,-105.8096,Dillon,80435,SUMMIT,64,,RECREATIONAL,,,,Heavy Metals;#9,Arsenic;#8;#Heavy Metals;#9;#Lead;#7,400,,2007/01/01,Active,,EPA and CDPHE joint inititative,0.513328391
-Cortez Community Radio Performance Venue,8 East Main Street,37.34877,-108.584868,Cortez,81321,MONTEZUMA,78,1306 Site;#2;#Brownfield Cleanup Grant;#12,COMMERCIAL,,,,,,0,,2012/01/25,Completed,2012/06/27,Cortez Community Radio,0.304676668
-Creede Airport Corner,"2 miles south of Creede, Colorado",37.8266,-106.9195,Creede,81130,MINERAL,47,,MIXED - INDUST+COM,,,Arsenic;#8;#Lead;#7,,,72,,2001/01/30,Completed,2002/01/02,Mineral County,0.251056668
-Crow Luther Arts Center / Eads Asbestos,"1302, 1304 and 1306 Main Street",38.4796,-102.7821,Eads,81036,KIOWA,32,,COMMERCIAL,Asbestos;#2,,,,,0.3,,2007/03/01,Completed,2008/09/01,Town of Eads,0.298478665
-Deer Trail Asbestos,N/A,39.615403,-104.044443,Deer Trail,80105,ARAPAHOE,8,,COMMERCIAL,Asbestos;#2,,Asbestos;#2,,,0.5,,2007/05/17,Completed,2007/07/12,Town of Deer Trail,0.373124284
-Del Norte Potato Growers Co-Op,150 Oak Street,37.6834,-106.3506,Del Norte,81132,RIO GRANDE,54,,COMMERCIAL,Asbestos;#2,,,,,6.3,"1530474004- NORTH PARCEL: A PAR OF LAND IN PART OF 1ST ST LOTS 6, 5 & S 20' LOTS 4 BLK 28 TOWN OF DN & NW4 SEC 29-40-6 MORE DESC BY M&B AS FOLS: ASSUM W LIN BLK 27 BEARS N 06 DEG 00' 00"" E S 06 DEG 00' 00"" W & BEG @ A PT FR WH NW COR SD SEC 29 BEARS N",2009/11/09,Active,,Town of Del Norte,0.517555327
-Derby Area Redevelopment,N/A,39.8275,-104.9139,Commerce City,80022,ADAMS,1,Underground Storage Tank;#3;#Dry Cleaner;#8,MIXED - COM+RES,,,,BTEX;#6;#PCE;#12;#TCE;#11,,22,,2005/03/14,Completed,2006/09/06,The City of Commerce City,0.376210667
-Durango Power Plant (aka Durango Discovery Museum),1333 Camino del Rio,37.2787,-107.88,Durango,81301,LA PLATA,35,Up Gradient Source;#10,MIXED - INDUST+COM,,,Mine Waste/Tailings;#3;#PAH's;#13,BTEX;#6,,6.1,Section: 20 Township: 35 Range: 9 LOT 1 OLD POWER PLANT BA 1333 CAMINO DEL RIO DURANGO 81301,2002/01/24,Completed,2005/04/18,City of Durango,0.440557333
-Eaton Sugar Beet Factory,N/A,40.5268,-104.7013,Eaton,80615,WELD,68,,INDUSTRIAL,Asbestos;#2,,Asbestos;#2;#Herbicides;#15;#Pesticides;#5;#TPH;#10;#Other;#18,,,43.1,,2009/12/01,Completed,2010/01/19,Town of Eaton,0.522194193
-Elysian Park,East end of Main Street,40.1125,-105.3819,Jamestown,80455,BOULDER,12,Revolving Loan Fund Site;#5,RECREATIONAL,,,Heavy Metals;#9;#Arsenic;#8;#Lead;#7;#Mine Waste/Tailings;#3,,,13.4,,2006/05/17,Active,,Town of Jamestown,0.583850623
-Empire West Site,North side of U.S. Highway 40 on the western side of the Town of Empire,39.7794,-105.6858,Empire,80438,CLEAR CREEK,16,,RECREATIONAL,,,Lead;#7;#Heavy Metals;#9,,,5.9,,2006/02/01,Completed,2006/07/11,Clear Creek County,0.655078579
-"Erie Gateway Site / Columbine Iron & Metals, Inc.",3747 County Road 8,40.0417,-104.9917,Erie,80516,WELD,67,,INDUSTRIAL,,,Heavy Metals;#9,,,56,,2000/01/20,Completed,2000/11/14,Town of Erie,0.506284288
-Eye of the Heart Wildlife Refuge,1744 Lump Gulch Rd,39.888,-105.504077,,80422,GILPIN,85,Brownfield Cleanup Grant;#12,RECREATIONAL,,,O&G;#24,,,12,,2012/08/08,Completed,2013/06/28,Eye of the Heart Wildlife Refuge,0.633472667
-Ferric Oxide Claim Site,"Along USFS Rd 630 approximately 1/4 mile east of Ophir, CO",37.8568,-107.8181,Ophir,81426,SAN MIGUEL,61,,RECREATIONAL,,,Arsenic;#8;#Heavy Metals;#9,,Heavy Metals;#9,20,,2008/07/28,Completed,2008/09/30,Town of Ophir,0.741545716
-Founders Park (aka Wheat Ridge DDT),3705 Jay Street,39.7625,-105.0642,Wheatridge,80033,JEFFERSON,29,,RECREATIONAL,,,Pesticides;#5;#DDT;#21,,,5,,2002/09/01,Completed,2003/10/25,The City of Wheat Ridge,0.509697142
-Four Corners Material Site,25306 Road L,37.3697,-108.5843,Cortez,81321,MONTEZUMA,82,,,,,,,,79.87,"Parcel #561123200014 - ""S:Â 23T: 36R: 16 N1/2NE1/4NW1/4 LESS TR 19.01A B 563 P 145 B598 PL824 B649 P998 R/461158""
-Â 
-Parcel #561123200017 - ""S: 23T: 36R: 16 S1/2NE1/4NW1/4; SE1/4NW1/4; TR NE COR NW1/4 60.86A B640 P722 B648 P973 B649 P998 & B733 P36",2012/12/03,Active,,City of Cortez,0.354685519
-Fruita Industrial Center,1493 Highway 6 & 50,39.172,-108.7794,Fruita,81521,MESA,37,,MIXED - INDUST+COM,,,Arsenic;#8;#PAH's;#13;#Heavy Metals;#9;#Lead;#7,,,40,,2001/01/25,Completed,2001/10/31,Mesa County,0.314573575
-Galaxy Gas Station,502 East Main Street,40.0878,-108.7981,Rangely,81648,RIO BLANCO,53,Revolving Loan Fund Site;#5,COMMERCIAL,,,,,,0.3,"SUB:COLTHARP SUBDIVISION BLK:3 LOT:22,23 & LOT:24,25 DESC: & W 5 FT OF 21 RECPT:287545 RECPT:283466 BK:583 PG:998 RECPT:275377 BK:579 PG:669A BK:578 PG:271 RECPT:273942 BK:578 PG:211 RECPT:273920 BK:556 PG:484 RECPT:268250 BK:531 PG:636 BK:512 PG:180 BK:",2002/12/18,Completed,2004/10/22,Town of Rangely,0.32843154
-Game Bird Mine Site,Located approximately 1/2 mile south of the Town of Ophir in Waterfall Canyon,37.8421,-107.8421,Ophir,81426,SAN MIGUEL,62,,RECREATIONAL,,,,,Heavy Metals;#9,40,,2008/07/28,Completed,2008/09/30,Town of Ophir,0.601750003
-Gates Rubber Co - Creamery Parcel 5,SW of the intersection of West Mississippi Avenue and South Broadway,39.6959,-104.9881,Denver,80210,DENVER,18,Up Gradient Source;#10,MIXED - IND+COM+RES,,,Petroleum contaminated soils;#360,VOC's;#4,,4.9,"0522202014000- JEROMES BROADWAY SUN 2ND FLG BLK BLK 1&3 DAF * 
-Â ",2004/10/13,Completed,2006/04/01,Cherokee Denver LLC,0.351979336
-Gates Rubber Co - Employee Gas Station - Parcel 3 & 4,Northeast Corner of West Mississippi Avenue and South Santa Fe Drive,39.6968,-104.9917,Denver,80223,DENVER,19,,MIXED - IND+COM+RES,,,MTBE/TPH;#26;#Semi VOC's;#16,VOC's;#4,,7.3,A PORTION OF THE SE/4 OF SW/4 SEC 15 T4S R68W DAF *,2006/04/28,Active,,"Cherokee Denver, LLC",0.331662857
-Gates Rubber Co. - Wellfield Parcel 1,Northwest Corner of West Tennessee Avenue and South Platte River Drive,39.6992,-104.9949,Denver,80223,DENVER,20,,MIXED - IND+COM+RES,,,Arsenic;#8;#Lead;#7,,,2,T4 R68 S15 SW/4 DIF BOOK 8225-152,2004/10/13,Completed,2005/10/01,"Cherokee Denver, LLC",0.32411875
-Geyser Park Rest Area,Main Street,38.1367,-105.4414,Silver Cliff,81249,CUSTER,81,,MIXED - COM+RES,,,,,,2,"Parcel #0010229857 (the 3 western-most Lots on the northern half of Block 18 - Lots 14, 15, 16); Current Owner (Westhoff Holdings LLLP); Legal (LOTS 14, 15, 16 BLOCK 18 TOWN OF SILVER CLIFF).
-Â 
-Parcel #0010229856 (remainder of the northern half of B",2012/08/09,Active,,Town of Silver Cliff,0.361221291
-Gold Hill Mesa,1382 Lower Gold Camp Road,38.8272,-104.8638,Colorado Springs,80905,EL PASO,24,,RESIDENTIAL,,,Arsenic;#8;#Lead;#7,,,50,,2005/05/24,Completed,2006/10/01,Gold Hill Mesa Township LLC,0.432576428
-Golden 13th Street Parcel / Golden Urban Renewal Authority,Jackson Street between 12th Street and 13th Street,39.7552,-105.2198,Golden,80401,JEFFERSON,27,Revolving Loan Fund Site;#5,COMMERCIAL,,,,PCE;#12,,0.7,,2005/05/31,Completed,2006/02/27,City of Golden,0.433772865
-Greenway Business Park,1493 Colorado State Highway 6 & 50,39.1745,-108.7813,Fruita,81521,MESA,45,,MIXED - INDUST+COM,,,Petroleum contaminated soils;#360,BTEX;#6;#MTBE/TPH;#26;#Lead;#7;#Heavy Metals;#9;#Semi VOC's;#16,,65,,2002/09/12,Completed,2005/01/06,Mesa County and the City of Fruita,0.317668667
-Habitat for Humanity Housing Site,995 Dry Gulch Road,40.3887,-105.4899,Estes Park,80517,LARIMER,69,,COMMERCIAL,,,,BTEX;#6,,0.8,"LOT 1, BLOCK 3, NEIGHBORHOOD, THE; EP, (20050103913)",2011/05/12,Active,,Habitat for Humanity of Estes Valley,0.516700741
-Hammel Superette,"330, 340, 350 Gunnison Avenue",38.0891,-106.1364,Saguache,81149,SAGUACHE,58,Underground Storage Tank;#3,MIXED - COM+RES,Asbestos;#2,,BTEX;#6;#TPH;#10,BTEX;#6;#TPH;#10,,0.52,,2009/03/31,Completed,2009/12/03,Town of Saguache,0.53093807
-Heffley and Guildner Properties,3435 and 3381 West 69th Avenue,39.8251,-105.0322,Westminster,80030,ADAMS,4,,MIXED - INDUST+COM,Asbestos;#2,,Petroleum contaminated soils;#360;#TPH;#10,PCE;#12;#Heavy Metals;#9;#Semi VOC's;#16,,4.4,"0182505222001-SUB:GUILDNER INDUSTRIAL TRACT BLK:1 LOT:1 
-0182505222001- SUB:G HEFFLEY SUBD BLK:1 LOT:1 DESC:",2004/07/07,Completed,2005/10/19,The City of Westminster,0.395664998
-IXL/Royal Tiger Mine & Mill Site (IXL/RTM),Located in the area of former Tiger Town approximately 5 miles northeast of Breckenridge along Primary Forest Route 6,39.522321,-105.965613,Breckenridge,80424,SUMMIT,65,,RECREATIONAL,,Heavy Metals;#9,Arsenic;#8;#Heavy Metals;#9;#Lead;#7,,Heavy Metals;#9,10,,2000/03/01,Completed,2002/08/16,Summit County Open Space,0.58041071
-June Building,966 Elm Avenue,38.0533,-103.7172,Rocky Ford,81067,OTERO,39,,COMMERCIAL,,,,,,0.5,,2007/04/01,Completed,2007/10/09,Town of Rocky Ford,0.460619349
-Kingsborough Park Expansion,1550 Idalia Court,39.6876,-104.8053,Aurora,80017,ARAPAHOE,10,Landfill;#9,COMMERCIAL,Methane;#4,,,,,0.5,,2003/07/14,Completed,2004/07/30,The City of Aurora,0.496025164
-La Junta Gas Station,114 W 10th Avenue,37.9787,-103.546,La Junta,81050,OTERO,40,Underground Storage Tank;#3,MIXED - COM+RES,,,Petroleum contaminated soils;#360,,,0.5,,2005/04/12,Completed,2005/07/07,City of La Junta,0.359772139
-Lackawanna Mill Site,468 County Road 20,37.8142,-107.6522,Silverton,81433,SAN JUAN,59,,RECREATIONAL,,,Heavy Metals;#9,,,24.6,,2006/08/01,Completed,2007/01/02,Town of Silverton,0.576185163
-Lake Minnequa Site,South of Lakeview Avenue and west of Lakeshore Drive,38.2307,-104.6308,Pueblo,81004,PUEBLO,50,,RECREATIONAL,,Heavy Metals;#9;#Arsenic;#8;#SLAG;#22;#PAH's;#13,,,,243,,2008/03/07,Completed,2008/04/28,City of Pueblo,0.381183702
-Lone Pine Building,"26278 Hwy 96, Wetmore, CO",38.2378,-105.085,,81253,CUSTER,76,,COMMERCIAL,Asbestos;#2,,,,,0.6,,2010/12/14,Completed,2011/04/07,Custer County,0.413138708
-Lower Squirrel Creek Restoration Project,N/A,38.3087,-106.1464,Unincorporated,81155,SAGUACHE,57,,RECREATIONAL,,Heavy Metals;#9,Heavy Metals;#9,,Heavy Metals;#9,2.9,,2001/09/01,Completed,2002/01/15,"ASARCO, Inc.",0.563130972
-Mancos Library,211 West First Street,37.344,-108.2903,Mancos,81328,MONTEZUMA,48,,COMMERCIAL,,,,,,0.6,,2005/06/14,Completed,2005/11/09,Mancos Public Library,0.442282576
-Manzanola Train Depot,301 North Park Street,38.1094,-103.8664,Manzanola,81058,OTERO,41,,COMMERCIAL,,,PAH's;#13;#Pesticides;#5;#VOC's;#4;#Semi VOC's;#16;#Herbicides;#15,,,2.27,,2005/08/24,Completed,2005/12/05,Town of Manzanola,0.596782002
-Monte Vista Boys and Girls Club,99 North Broadway,37.5828,-106.1503,Monte Vista,81144,RIO GRANDE,55,,RESIDENTIAL,VOC's;#6,,PCB's;#17;#PAH's;#13;#Semi VOC's;#16,,,0.95,,2007/05/23,Completed,2007/10/10,Boys & Girls Club of San Louis Valley,0.548667997
-Montez Park,1630 Grand Avenue,37.5787,-106.1391,Monte Vista,81144,RIO GRANDE,70,,COMMERCIAL,,,,,,2.09,,2011/05/19,Completed,2011/09/28,City of Monte Vista,0.532395481
-Montrose UP Railroad Corridor,N/A,38.4696,-107.8751,Montrose,81401,MONTROSE,38,,COMMERCIAL,,,,,,30,,2008/10/28,Active,,City of Montrose,0.379376126
-National Belle Mine Site,"Located on the edge of the town of Red Mountain, a ghost town since the early 20th century, and a short distance via a dirt road from Colorado 550 (approximately 3,000 feet northeast of the summit of Red Mountain Pass)",37.9049,-107.7047,Ouray,0,OURAY,43,,RECREATIONAL,,,Arsenic;#8;#Heavy Metals;#9;#Lead;#7,,Heavy Metals;#9;#Lead;#7,0,,2006/06/01,Completed,2007/01/02,Red Mountain Task Force in conjunction with the Ouray County Historical Socitety,0.603973542
-New Cardinal Mill,2 Miles west of Nederland on Caribou Road,39.9694,-105.5506,Nederland,80466,BOULDER,13,Mine Scarred Land Site;#7,OTHER,,,Lead;#7,Heavy Metals;#9,,5,,2003/06/01,Completed,2005/10/30,New Cardinal LLC,0.705882749
-North Rico Light Industrial Park & County Maintenance Barn Sites,~1/4 to 3/4 Miles North of the Town of Rico,37.7086,-108.0307,Rico,81332,DOLORES,23,,MIXED - INDUST+COM,,,Arsenic;#8;#Heavy Metals;#9;#Lead;#7;#PAH's;#13;#Pesticides;#5,Arsenic;#8;#Heavy Metals;#9,,34,,2002/06/10,Completed,2003/04/22,Town of Rico,0.743935341
-Northglenn Meth House,11031 Pearl Way,39.896815,-104.980567,Northglenn,80233,ADAMS,84,Indoor Air;#11,RESIDENTIAL,Other;#5,,,,,0,,2010/02/01,Completed,2010/09/21,Northglenn/CBF,0.428088746
-Oak Creek Water Treatment Plant,N/A,40.2738,-106.9642,Oak Creek,80467,ROUTT,56,,INDUSTRIAL,,,Heavy Metals;#9,,,0.6,,2006/03/02,Completed,2006/08/23,Town of Oak Creek,0.693247105
-Palisade Gas Station,225 West Third Street,39.1102,-108.3529,Palisade,81526,MESA,46,,COMMERCIAL,,,Lead;#7;#Heavy Metals;#9,,,0.2,W 5FT OF LOT 5 & ALL LOTS 6 & 7 & E2 LOT 8 BLK 6 SEC 9 11S 98W,2007/03/07,Completed,2007/08/20,Town of Palisade,0.442493553
-Paris Mill,Located approximately 3 miles west of the Town of Alma at the base of Mount Broos in the Alma Mining District,39.296,-106.1082,Alma,0,PARK,44,,RECREATIONAL,,,Lead;#7;#Heavy Metals;#9,,,8,,2007/05/01,Completed,2007/11/08,Park County - Office of Tourism & Community Development,0.4641871
-Parks Shop,3950 72nd Avenue,39.8269,-105.0393,Westminster,80030,ADAMS,3,,MIXED - IND+COM+RES,,,,,,1.1,,1899/12/30,,,,0.424563222
-Paxson Building,220 Church Street,38.764,-102.791,Kit Carson,80825,KIT CARSON,14,,COMMERCIAL,Asbestos;#2,,MTBE/TPH;#26;#Lead;#7,,,0.45,,2008/05/01,Completed,2009/11/11,Kit Carson Rural Development,0.372077863
-Pennsylvania Mine,N/A,39.6003,-105.8096,Dillon,80435,SUMMIT,63,,,,,,Heavy Metals;#9,Arsenic;#8;#Heavy Metals;#9;#Lead;#7,400,,1899/12/30,Active,,,0.513328391
-Penrose Equestrian Center,1045 West Rio Grande,38.8222,-104.847,Colorado Springs,80905,EL PASO,25,,COMMERCIAL,,,,,,12,SEC 24-14-67 OAKWOOD 1995 16X76 VINHOCOF8016CK3FOO10 04R371831 74242-00-040,2002/01/14,,,El Paso County Office of the Board of County Commissioners,0.376108665
-Pink Elephant,"523, 525, 527, and 529 6th Street; and 524 State Avenue",37.4669,-105.8646,Alamosa,81101,ALAMOSA,71,,COMMERCIAL,Asbestos;#2,,,,,0.4,"541310109012- LOT 28 ALAMOSA BLK 51 WD REC #328166 09-29-06 WD REC #328166 09-29-06
-541310109013- LOT 29 ALAMOSA BLK 51 WD REC #309715 12-27-02
-541310109014- LOT 28 ALAMOSA BLK 51 WD REC #328166 09-29-06 WD REC #328166 09-29-06",2010/08/30,Completed,2011/06/23,The Alamosa County Economic Development Corp.,0.461829994
-Pubelo Cooperative Care Center,325 & 327 West 10th Street,38.2765,-104.6114,Pueblo,81003,PUEBLO,72,,COMMERCIAL,Asbestos;#2,,,,,0.5,,2010/09/01,Completed,2011/01/20,Pueblo Cooperative Care Center,0.373407333
-Pueblo Ice House,602 West 6th Street,38.2722,-104.615,Pueblo,81003,PUEBLO,49,,MIXED - INDUST+COM,Asbestos;#2,,Asbestos;#2,,,0.6,W 21 FT OF LOT 7 + ALL LOT 8 BLK 24 EAST PUEBLO,2009/03/18,Completed,2009/09/10,Pueblo County - Department of Public Works,0.273443225
-Pueblo Railroad Right of Way,South of 121 River Street,38.2656,-104.6057,Pueblo,80467,PUEBLO,51,Up Gradient Source;#10,INDUSTRIAL,,,Arsenic;#8;#Lead;#7;#Heavy Metals;#9,PCE;#12,,3.3,,2005/10/01,Completed,2006/03/22,City of Pueblo,0.255883571
-Rifle Creek Movie Theater,132 East 4th Street,39.5328,-107.7824,Rifle,81650,GARFIELD,75,,COMMERCIAL,Asbestos;#2,,,,,0.1,,2010/12/29,Completed,2011/08/24,City of Rifle,0.42177857
-Rose-Walsh Smelter Site,Adjacent to Silverton,37.808106,-107.675886,,81433,SAN JUAN,89,Brownfield Cleanup Grant;#12,RESIDENTIAL,,,Arsenic;#8;#Lead;#7;#SLAG;#22,,,13.8,13.8 acres immediately SW of the Town of Silverton,2009/01/07,Completed,2012/04/02,San Juan County,0.530003336
-Salida Gun Club,8113 County Road 160,38.5434,-106.0257,Salida,81201,CHAFFEE,22,Gun Range;#14,COMMERCIAL,,,Lead;#7,,,17,,2001/10/23,Completed,2003/01/15,The City of Salida,0.491695334
-Sand Creek Greenway,24th Avenue and Chambers Road,39.7529,-104.8084,Aurora,80011,ADAMS,5,Landfill;#9,INDUSTRIAL,,,,,,4.1,"0182132005001- SUB:PARK CHAMBERS FIRST FILING DESC: LOT 1 BLK 3 TOG WITH VAC ST (2007-ENTIRE PARCEL TO THE CITY OF AURORA PER DEED IN RECEPTION NO 2007000104870 11/09/2007. PRO-RATED FOR 241 DAYS FOR 2007 AND FULL EXEMPTION FOR 2008.) 
-0182132005002- SU",2009/04/06,Active,,City of Aurora,0.369195479
-Shoe Basin Mine,Located within the Peru Creek drainage area in Summit County,39.6097,-105.799,Unincorporated,0,SUMMIT,66,Revolving Loan Fund Site;#5,RECREATIONAL,,,,,Heavy Metals;#9;#Lead;#7,1.5,,2005/09/01,Completed,2007/08/09,Summit County,0.593322071
-Silver Cliff - Geyser Park Rest Area,"Block 18 of the Town of Silver Cliff bounded by HWY 96, DeWalt St, Cliff St, and French St",38.136634,-105.441331,Silver Cliff,81252,CUSTER,79,,,,,,,,2.02,,2012/08/13,Active,,The Town of Silver Cliff,0.361802667
-State Fairgrounds Navy Buildings,2501 W Northern Ave,38.244618,-104.640377,Pueblo,81004,PUEBLO,86,1306 Site;#2,,,,,,,0,,2012/05/07,Active,,Colo Dept Agriculture,0.341068749
-Sterling Manufactured Gas Plant (Former) (Sections A&B),205 South 3rd Avenue,40.624508,-103.214126,Sterling,80751,LOGAN,77,Manufactured Gas Plant;#21,COMMERCIAL,,,Semi VOC's;#16,Semi VOC's;#16;#BTEX;#6,,1.2,"TRACT A, GATEWAY REPLAT OF GATWAY SUBDIVISION OF LOT 2, BLOCK 1, GATEWAY BUSINESS PARK",2012/03/06,Active,,"Centennial Mental Health Center, Inc.",0.406205334
-Stratton Junk Yard,233 Colorado Avenue,39.304,-102.6048,Stratton,80836,KIT CARSON,73,,COMMERCIAL,Asbestos;#2,,,,,0.4,,2010/05/24,Completed,2010/08/30,East Central Council of Local Governments (ECCOG),0.420991612
-Ute- Ulay Townsite,,38.0209,-107.3774,Lake City,0,HINSDALE,74,Mine Scarred Land Site;#7,OTHER,Asbestos;#2,,Arsenic;#8;#Lead;#7,,,4,,2010/06/24,Active,,Hinsdale County,0.593735488
-Ute-Ulay Mine and Mill Site,,38.0196,-107.377,Lake City,0,HINSDALE,80,Mine Scarred Land Site;#7,OTHER,Asbestos;#2,,Heavy Metals;#9;#Lead;#7;#Mine Waste/Tailings;#3;#Arsenic;#8,,,4,,1899/12/30,Active,,Hinsdale County,0.590063873
-Vacant Site (Sections C&D),217 South 3rd Avenue,40.6242,-103.2143,Sterling,80751,LOGAN,83,,COMMERCIAL,,,,,,1.1,"LOT 1, BLK 1, GATEWAY BUSINESS PARK",2012/12/20,Active,,Centennial Mental Health Center (CMHC),0.411145162
-Villa Italia Mall,South Wadsworth Boulevard and West Alameda Avenue,39.7073,-105.0776,Lakewood,80226,JEFFERSON,28,,MIXED - COM+RES,,,PCE;#12;#PCB's;#17;#Petroleum contaminated soils;#360,PCE;#12;#TPH;#10,,103,,2002/05/13,Completed,2005/01/14,City of Lakewood and Continuum Lakewood Development Company LLC,0.435284668
-Westlake Dry Cleaners,1617 West Eisenhower Boulevard,40.4075,-105.1008,Loveland,80538,LARIMER,30,,COMMERCIAL,,,,PCE;#12,,0.2,"BEG AT SW COR LOT 3, BLK 7, SPRENGER, LOV, TH N 0 7' E 150 FT, E 60.5 FT, S 0 3' W 150 FT, W 60.71 FT TPOB",1998/02/05,Completed,1989/10/13,City of Loveland,0.45639333
-White Water Park Site,Interstate 70 South Frontage Road east of the Town of Empire,39.762,-105.6384,Empire,80438,CLEAR CREEK,17,,RECREATIONAL,,,,,,11.8,,2006/02/01,Completed,2006/07/11,Clear Creek County,0.611259994
-Willow Creek Floodplain,South of the City of Creede,37.836826,-106.920014,Creede,81130,MINERAL,26,CERCLIS Site;#4,RECREATIONAL,,,,,,102.99,,2008/06/10,Active,,The City of Creede,0.297096429
-Escuela Tlateloco,2949 Federal Blvd,39.75951,-105.025763,Denver,0,DENVER,97,1306 Site;#2,,Asbestos;#2,,,,,0,,2008/10/01,Completed,2009/01/23,,0.445442757
-Elysian Park,East end of Main Street,39.740105,-104.985448,Jamestown,0,BOULDER,12,Revolving Loan Fund Site;#5,RECREATIONAL,,,Heavy Metals;#9;#Arsenic;#8;#Lead;#7;#Mine Waste/Tailings;#3,,,13.4,,2006/05/17,Active,,Town of Jamestown,0.251360711
-Buckshot Industries,17576 Highway 96,38.216892,-103.734311,Ordway,0,CROWLEY,21,Landfill;#9,COMMERCIAL,,,Asbestos;#2;#Heavy Metals;#9;#MTBE/TPH;#26,,,8,"10800755-   ALL THAT PT OF SW4NW4 SEC 4 -23-73 AKA TR 9 & LOTS 3, 4, 7 & PT OF LOT 8 BLK K & PT OF PLATTED ROAD BETWEEN BLK'S K & L ALPINE COLONY 
-",2007/01/18,Completed,2007/09/17,Crowley County,0.267892141
-Bent County High School,,38.065413,-103.232511,Las Animas,0,BENT,98,1306 Site;#2,,Asbestos;#2,,,,,0,,2012/02/03,Completed,2012/12/31,Bent County,0.400093335
-Former Genoa School Asbestos Abatement,210 4th St.,39.280136,-103.496914,Genoa,0,LINCOLN,99,,,,,,,,1.7,"Sec 12, T9S, R55W, Tract 10 of the Town of Genoa.",2010/05/07,Completed,2012/10/12,Town of Genoa,0.358991877
-Fort Collins Discovery Museum,,40.593519,-105.077985,Fort Collins,0,LARIMER,94,,,,,Asbestos;#2;#O&G;#24,,,40,,2010/09/01,Completed,2011/11/11,City of Fort Collins,0.446187405
-Kit Carson Affordable Housing,,38.763359,-102.793655,Kit Carson,0,CHEYENNE,96,1306 Site;#2,RESIDENTIAL,Asbestos;#2,,,,,0,,2011/03/01,Completed,2011/04/30,"Kit Carson Rural Development, a 501c3 non-profit",0.36738715
-La Junta Gas Station,114 W 10th Avenue,37.978703,-103.546005,La Junta,0,OTERO,40,Underground Storage Tank;#3,MIXED - COM+RES,,,Petroleum contaminated soils;#360,,,0.5,,2005/04/12,Completed,2005/07/07,City of La Junta,0.359772139
-Mineral County Fairgrounds,South of the City of Creede,37.825181,-106.914901,Creede,0,MINERAL,26,CERCLIS Site;#4,RECREATIONAL,,,Lead;#7,,,40,,2008/06/10,Completed,2008/09/30,"Mineral County Fairgrounds Association, a 501c3 non-profit",0.253929656
-Montrose UP Railroad Corridor,N/A,38.454822,-107.875079,Montrose,0,MONTROSE,38,,COMMERCIAL,,,,,,30,,2008/10/28,Active,,City of Montrose,0.431329284
-Park County Offices,824 Castello Ave,39.22441,-105.994922,Fairplay,0,PARK,100,1306 Site;#2,COMMERCIAL,Asbestos;#2,,,,,0,,2011/12/28,Completed,2012/09/18,,0.418106895
-Peanut Mine,,38.888594,-107.004643,Crested Butte,0,GUNNISON,93,1306 Site;#2;#Mine Scarred Land Site;#7,RECREATIONAL,,,Mine Waste/Tailings;#3,,,0,1.5 miles NW of Crested Butte,2005/01/01,Completed,2005/11/30,,0.7074245
-Pleasant View PCE,,39.732675,-105.172594,Golden,0,JEFFERSON,92,,,,,,,,0,,2002/01/01,Completed,2002/12/31,,0.429395
-Sand Creek Landfill,24th Avenue and Chambers Road,39.752916,-104.808411,Aurora,0,ADAMS,5,Landfill;#9,INDUSTRIAL,,,,,,4.1,"0182132005001- SUB:PARK CHAMBERS FIRST FILING DESC: LOT 1 BLK 3 TOG WITH VAC ST (2007-ENTIRE PARCEL TO THE CITY OF AURORA PER DEED IN RECEPTION NO 2007000104870 11/09/2007. PRO-RATED FOR 241 DAYS FOR 2007 AND FULL EXEMPTION FOR 2008.) 
-0182132005002- SUB",2009/04/06,Active,,City of Aurora,0.369195479
-Shoe Basin Mine,Located within the Peru Creek drainage area in Summit County,39.609778,-105.799021,Unincorporated,0,SUMMIT,66,Revolving Loan Fund Site;#5,RECREATIONAL,,,,,Heavy Metals;#9;#Lead;#7,1.5,,2005/09/01,Completed,2007/08/09,Summit County,0.593322071
-SLV Habitat for Humanity Site,507 Main Street,37.468331,-105.864311,Alamosa,0,ALAMOSA,90,,,,,,,,0.172,LOTS 20 & 21 ALAMOSA BLK 40 WD B 389 P 80 9-25-89,2014/02/27,Active,,San Luis Valley Habitat for Humanity,0.48763937
-Thornton Redevelopment,SE of Washington and 88th,39.855277,-104.977917,Thornton,0,ADAMS,95,1306 Site;#2;#Dry Cleaner;#8,COMMERCIAL,,,PCE;#12,,,13.5,,2006/02/01,Completed,2007/06/30,Thornton Development Authority,0.374057143
-Westwood Food Hub Site,3738 Morrison Road,39.70775,-105.0368,Denver,0,DENVER,91,,INDUSTRIAL,,,,,,1.702,BELMONT PARK ANNEX B37 L1 & 2 & L11 TO 20 & WESTLAWN ADD B8 L11 TO 19,2014/04/01,Active,,Revision International,0.414941334
-White Hall,600 White Street,39.069444,-108.562121,Grand Junction,0,MESA,101,Other;#13;#1306 Site;#2,MIXED - COM+RES,,,Asbestos;#2,,,1.5,,2012/09/24,Completed,2013/11/11,Grand Junction Downtown Development Authority,0.321692
+Site,Lat_DD,Lon_DD,City,Zip_Code,County,ID,Other_Issu,Land_Use__,Indoor_Air,Media_Sedi,Media_Soil,Media_Grou,Media_Surf,Acreage,year,Applicant,ndvi_mean
+5S Gas Station,40.0872,-108.8075,Rangely,81648,RIO BLANCO,52,Underground Storage Tank;#3,COMMERCIAL,,,Petroleum contaminated soils;#360;#BTEX;#6;#TPH;#10,TPH;#10;#BTEX;#6,,0.3,2002,Town of Rangely,0.305944288
+A.R. Mitchell Museum of Western Art,37.168958,-104.504917,Trinidad,81082,LAS ANIMAS,87,Brownfield Assessment;#6,COMMERCIAL,,,,,,1,2013,Town of Trinidad,0.35569871
+Alamosa Power Plant (aka Former Public Service Company Power Plant,37.4654,-105.8688,Alamosa,81101,ALAMOSA,6,,INDUSTRIAL,,,PAH's;#13;#Lead;#7,PAH's;#13;#PCE;#12,,3.7,2003,City of Alamosa,0.428052664
+Argo Mine Site,40.1297,-105.4006,Jamestown,80481,BOULDER,11,Mine Scarred Land Site;#7,OTHER,,Arsenic;#8;#Lead;#7;#Mine Waste/Tailings;#3,Arsenic;#8;#Lead;#7;#Mine Waste/Tailings;#3,,Lead;#7;#Heavy Metals;#9,13.73,2003,Boulder County,0.574402151
+Aztlan Center,40.5927,-105.075,Fort Collins,80524,LARIMER,36,Landfill;#9,RECREATIONAL,,,Methane;#14;#Coal Fill;#23;#BTEX;#6;#PCE;#12,PAH's;#13;#Coal Fill;#23;#BTEX;#6;#MTBE/TPH;#26;#PCE;#12,,19.1,2002,City of Fort Collins,0.412813332
+Bayfield Open Space Site,37.2236,-107.6037,Bayfield,81122,LA PLATA,33,,RECREATIONAL,,,Arsenic;#8;#Lead;#7,,,18.9,2003,Town of Bayfield and Bayfield School District,0.572746659
+Bayfield School Site,37.2239,-107.5993,Bayfield,81122,LA PLATA,34,,COMMERCIAL,,,,,,4.6,2003,Bayfield School District,0.558251717
+Bellview Hudson West Site,39.7589,-105.7733,Empire,80438,CLEAR CREEK,15,,COMMERCIAL,,,Lead;#7;#Heavy Metals;#9;#Arsenic;#8,,,23.8,2006,Clear Creek County,0.565315489
+Buckshot Industries,38.2169,-103.7343,Ordway,81063,CROWLEY,21,Landfill;#9,COMMERCIAL,,,Asbestos;#2;#Heavy Metals;#9;#MTBE/TPH;#26,,,8,2007,Crowley County,0.267892141
+Carribeau Tailings Reclamation Site,37.7726,-107.7673,Ophir,81426,SAN MIGUEL,60,WQCD;#15,RECREATIONAL,,Arsenic;#8;#Heavy Metals;#9;#Lead;#7,Arsenic;#8;#Heavy Metals;#9;#Lead;#7,,Arsenic;#8;#Heavy Metals;#9;#Lead;#7,7,2002,San Miguel County,0.682552669
+Centennial Park Expansion,39.6331,-105.0238,Englewood,80110,ARAPAHOE,9,Landfill;#9,COMMERCIAL,Methane;#4,,,Heavy Metals;#9;#VOC's;#4,,9.4,2000,City of Englewood,0.357528126
+Cherry Creek 18 / Duffy Property Site,39.6849,-104.901,Glendale,80231,ARAPAHOE,7,Landfill;#9,MIXED - INDUST+COM,,,Lead;#7;#PAH's;#13;#Heavy Metals;#9;#Methane;#14,,,12,2005,The Trust for Public Land,0.49962143
+Chicken and New Deal,37.9211,-107.7179,Ouray,0,OURAY,42,,RECREATIONAL,,,Lead;#7,,,40,2007,Trust for Land Restoration,0.52432133
+Cinnamon Gulch/Peru Creek and Pennsylvania Mine Site,39.6003,-105.8096,Dillon,80435,SUMMIT,64,,RECREATIONAL,,,,Heavy Metals;#9,Arsenic;#8;#Heavy Metals;#9;#Lead;#7,400,2007,EPA and CDPHE joint inititative,0.513328391
+Cortez Community Radio Performance Venue,37.34877,-108.584868,Cortez,81321,MONTEZUMA,78,1306 Site;#2;#Brownfield Cleanup Grant;#12,COMMERCIAL,,,,,,0,2012,Cortez Community Radio,0.304676668
+Creede Airport Corner,37.8266,-106.9195,Creede,81130,MINERAL,47,,MIXED - INDUST+COM,,,Arsenic;#8;#Lead;#7,,,72,2001,Mineral County,0.251056668
+Crow Luther Arts Center / Eads Asbestos,38.4796,-102.7821,Eads,81036,KIOWA,32,,COMMERCIAL,Asbestos;#2,,,,,0.3,2007,Town of Eads,0.298478665
+Deer Trail Asbestos,39.615403,-104.044443,Deer Trail,80105,ARAPAHOE,8,,COMMERCIAL,Asbestos;#2,,Asbestos;#2,,,0.5,2007,Town of Deer Trail,0.373124284
+Del Norte Potato Growers Co-Op,37.6834,-106.3506,Del Norte,81132,RIO GRANDE,54,,COMMERCIAL,Asbestos;#2,,,,,6.3,2009,Town of Del Norte,0.517555327
+Derby Area Redevelopment,39.8275,-104.9139,Commerce City,80022,ADAMS,1,Underground Storage Tank;#3;#Dry Cleaner;#8,MIXED - COM+RES,,,,BTEX;#6;#PCE;#12;#TCE;#11,,22,2005,The City of Commerce City,0.376210667
+Durango Power Plant (aka Durango Discovery Museum),37.2787,-107.88,Durango,81301,LA PLATA,35,Up Gradient Source;#10,MIXED - INDUST+COM,,,Mine Waste/Tailings;#3;#PAH's;#13,BTEX;#6,,6.1,2002,City of Durango,0.440557333
+Eaton Sugar Beet Factory,40.5268,-104.7013,Eaton,80615,WELD,68,,INDUSTRIAL,Asbestos;#2,,Asbestos;#2;#Herbicides;#15;#Pesticides;#5;#TPH;#10;#Other;#18,,,43.1,2009,Town of Eaton,0.522194193
+Elysian Park,40.1125,-105.3819,Jamestown,80455,BOULDER,12,Revolving Loan Fund Site;#5,RECREATIONAL,,,Heavy Metals;#9;#Arsenic;#8;#Lead;#7;#Mine Waste/Tailings;#3,,,13.4,2006,Town of Jamestown,0.583850623
+Empire West Site,39.7794,-105.6858,Empire,80438,CLEAR CREEK,16,,RECREATIONAL,,,Lead;#7;#Heavy Metals;#9,,,5.9,2006,Clear Creek County,0.655078579
+"Erie Gateway Site / Columbine Iron & Metals, Inc.",40.0417,-104.9917,Erie,80516,WELD,67,,INDUSTRIAL,,,Heavy Metals;#9,,,56,2000,Town of Erie,0.506284288
+Eye of the Heart Wildlife Refuge,39.888,-105.504077,,80422,GILPIN,85,Brownfield Cleanup Grant;#12,RECREATIONAL,,,O&G;#24,,,12,2012,Eye of the Heart Wildlife Refuge,0.633472667
+Ferric Oxide Claim Site,37.8568,-107.8181,Ophir,81426,SAN MIGUEL,61,,RECREATIONAL,,,Arsenic;#8;#Heavy Metals;#9,,Heavy Metals;#9,20,2008,Town of Ophir,0.741545716
+Founders Park (aka Wheat Ridge DDT),39.7625,-105.0642,Wheatridge,80033,JEFFERSON,29,,RECREATIONAL,,,Pesticides;#5;#DDT;#21,,,5,2002,The City of Wheat Ridge,0.509697142
+Four Corners Material Site,37.3697,-108.5843,Cortez,81321,MONTEZUMA,82,,,,,,,,79.87,2012,City of Cortez,0.354685519
+Fruita Industrial Center,39.172,-108.7794,Fruita,81521,MESA,37,,MIXED - INDUST+COM,,,Arsenic;#8;#PAH's;#13;#Heavy Metals;#9;#Lead;#7,,,40,2001,Mesa County,0.314573575
+Galaxy Gas Station,40.0878,-108.7981,Rangely,81648,RIO BLANCO,53,Revolving Loan Fund Site;#5,COMMERCIAL,,,,,,0.3,2002,Town of Rangely,0.32843154
+Game Bird Mine Site,37.8421,-107.8421,Ophir,81426,SAN MIGUEL,62,,RECREATIONAL,,,,,Heavy Metals;#9,40,2008,Town of Ophir,0.601750003
+Gates Rubber Co - Creamery Parcel 5,39.6959,-104.9881,Denver,80210,DENVER,18,Up Gradient Source;#10,MIXED - IND+COM+RES,,,Petroleum contaminated soils;#360,VOC's;#4,,4.9,2004,Cherokee Denver LLC,0.351979336
+Gates Rubber Co - Employee Gas Station - Parcel 3 & 4,39.6968,-104.9917,Denver,80223,DENVER,19,,MIXED - IND+COM+RES,,,MTBE/TPH;#26;#Semi VOC's;#16,VOC's;#4,,7.3,2006,"Cherokee Denver, LLC",0.331662857
+Gates Rubber Co. - Wellfield Parcel 1,39.6992,-104.9949,Denver,80223,DENVER,20,,MIXED - IND+COM+RES,,,Arsenic;#8;#Lead;#7,,,2,2004,"Cherokee Denver, LLC",0.32411875
+Geyser Park Rest Area,38.1367,-105.4414,Silver Cliff,81249,CUSTER,81,,MIXED - COM+RES,,,,,,2,2012,Town of Silver Cliff,0.361221291
+Gold Hill Mesa,38.8272,-104.8638,Colorado Springs,80905,EL PASO,24,,RESIDENTIAL,,,Arsenic;#8;#Lead;#7,,,50,2005,Gold Hill Mesa Township LLC,0.432576428
+Golden 13th Street Parcel / Golden Urban Renewal Authority,39.7552,-105.2198,Golden,80401,JEFFERSON,27,Revolving Loan Fund Site;#5,COMMERCIAL,,,,PCE;#12,,0.7,2005,City of Golden,0.433772865
+Greenway Business Park,39.1745,-108.7813,Fruita,81521,MESA,45,,MIXED - INDUST+COM,,,Petroleum contaminated soils;#360,BTEX;#6;#MTBE/TPH;#26;#Lead;#7;#Heavy Metals;#9;#Semi VOC's;#16,,65,2002,Mesa County and the City of Fruita,0.317668667
+Habitat for Humanity Housing Site,40.3887,-105.4899,Estes Park,80517,LARIMER,69,,COMMERCIAL,,,,BTEX;#6,,0.8,2011,Habitat for Humanity of Estes Valley,0.516700741
+Hammel Superette,38.0891,-106.1364,Saguache,81149,SAGUACHE,58,Underground Storage Tank;#3,MIXED - COM+RES,Asbestos;#2,,BTEX;#6;#TPH;#10,BTEX;#6;#TPH;#10,,0.52,2009,Town of Saguache,0.53093807
+Heffley and Guildner Properties,39.8251,-105.0322,Westminster,80030,ADAMS,4,,MIXED - INDUST+COM,Asbestos;#2,,Petroleum contaminated soils;#360;#TPH;#10,PCE;#12;#Heavy Metals;#9;#Semi VOC's;#16,,4.4,2004,The City of Westminster,0.395664998
+IXL/Royal Tiger Mine & Mill Site (IXL/RTM),39.522321,-105.965613,Breckenridge,80424,SUMMIT,65,,RECREATIONAL,,Heavy Metals;#9,Arsenic;#8;#Heavy Metals;#9;#Lead;#7,,Heavy Metals;#9,10,2000,Summit County Open Space,0.58041071
+June Building,38.0533,-103.7172,Rocky Ford,81067,OTERO,39,,COMMERCIAL,,,,,,0.5,2007,Town of Rocky Ford,0.460619349
+Kingsborough Park Expansion,39.6876,-104.8053,Aurora,80017,ARAPAHOE,10,Landfill;#9,COMMERCIAL,Methane;#4,,,,,0.5,2003,The City of Aurora,0.496025164
+La Junta Gas Station,37.9787,-103.546,La Junta,81050,OTERO,40,Underground Storage Tank;#3,MIXED - COM+RES,,,Petroleum contaminated soils;#360,,,0.5,2005,City of La Junta,0.359772139
+Lackawanna Mill Site,37.8142,-107.6522,Silverton,81433,SAN JUAN,59,,RECREATIONAL,,,Heavy Metals;#9,,,24.6,2006,Town of Silverton,0.576185163
+Lake Minnequa Site,38.2307,-104.6308,Pueblo,81004,PUEBLO,50,,RECREATIONAL,,Heavy Metals;#9;#Arsenic;#8;#SLAG;#22;#PAH's;#13,,,,243,2008,City of Pueblo,0.381183702
+Lone Pine Building,38.2378,-105.085,,81253,CUSTER,76,,COMMERCIAL,Asbestos;#2,,,,,0.6,2010,Custer County,0.413138708
+Lower Squirrel Creek Restoration Project,38.3087,-106.1464,Unincorporated,81155,SAGUACHE,57,,RECREATIONAL,,Heavy Metals;#9,Heavy Metals;#9,,Heavy Metals;#9,2.9,2001,"ASARCO, Inc.",0.563130972
+Mancos Library,37.344,-108.2903,Mancos,81328,MONTEZUMA,48,,COMMERCIAL,,,,,,0.6,2005,Mancos Public Library,0.442282576
+Manzanola Train Depot,38.1094,-103.8664,Manzanola,81058,OTERO,41,,COMMERCIAL,,,PAH's;#13;#Pesticides;#5;#VOC's;#4;#Semi VOC's;#16;#Herbicides;#15,,,2.27,2005,Town of Manzanola,0.596782002
+Monte Vista Boys and Girls Club,37.5828,-106.1503,Monte Vista,81144,RIO GRANDE,55,,RESIDENTIAL,VOC's;#6,,PCB's;#17;#PAH's;#13;#Semi VOC's;#16,,,0.95,2007,Boys & Girls Club of San Louis Valley,0.548667997
+Montez Park,37.5787,-106.1391,Monte Vista,81144,RIO GRANDE,70,,COMMERCIAL,,,,,,2.09,2011,City of Monte Vista,0.532395481
+Montrose UP Railroad Corridor,38.4696,-107.8751,Montrose,81401,MONTROSE,38,,COMMERCIAL,,,,,,30,2008,City of Montrose,0.379376126
+National Belle Mine Site,37.9049,-107.7047,Ouray,0,OURAY,43,,RECREATIONAL,,,Arsenic;#8;#Heavy Metals;#9;#Lead;#7,,Heavy Metals;#9;#Lead;#7,0,2006,Red Mountain Task Force in conjunction with the Ouray County Historical Socitety,0.603973542
+New Cardinal Mill,39.9694,-105.5506,Nederland,80466,BOULDER,13,Mine Scarred Land Site;#7,OTHER,,,Lead;#7,Heavy Metals;#9,,5,2003,New Cardinal LLC,0.705882749
+North Rico Light Industrial Park & County Maintenance Barn Sites,37.7086,-108.0307,Rico,81332,DOLORES,23,,MIXED - INDUST+COM,,,Arsenic;#8;#Heavy Metals;#9;#Lead;#7;#PAH's;#13;#Pesticides;#5,Arsenic;#8;#Heavy Metals;#9,,34,2002,Town of Rico,0.743935341
+Northglenn Meth House,39.896815,-104.980567,Northglenn,80233,ADAMS,84,Indoor Air;#11,RESIDENTIAL,Other;#5,,,,,0,2010,Northglenn/CBF,0.428088746
+Oak Creek Water Treatment Plant,40.2738,-106.9642,Oak Creek,80467,ROUTT,56,,INDUSTRIAL,,,Heavy Metals;#9,,,0.6,2006,Town of Oak Creek,0.693247105
+Palisade Gas Station,39.1102,-108.3529,Palisade,81526,MESA,46,,COMMERCIAL,,,Lead;#7;#Heavy Metals;#9,,,0.2,2007,Town of Palisade,0.442493553
+Paris Mill,39.296,-106.1082,Alma,0,PARK,44,,RECREATIONAL,,,Lead;#7;#Heavy Metals;#9,,,8,2007,Park County - Office of Tourism & Community Development,0.4641871
+Parks Shop,39.8269,-105.0393,Westminster,80030,ADAMS,3,,MIXED - IND+COM+RES,,,,,,1.1,1899,,0.424563222
+Paxson Building,38.764,-102.791,Kit Carson,80825,KIT CARSON,14,,COMMERCIAL,Asbestos;#2,,MTBE/TPH;#26;#Lead;#7,,,0.45,2008,Kit Carson Rural Development,0.372077863
+Pennsylvania Mine,39.6003,-105.8096,Dillon,80435,SUMMIT,63,,,,,,Heavy Metals;#9,Arsenic;#8;#Heavy Metals;#9;#Lead;#7,400,1899,,0.513328391
+Penrose Equestrian Center,38.8222,-104.847,Colorado Springs,80905,EL PASO,25,,COMMERCIAL,,,,,,12,2002,El Paso County Office of the Board of County Commissioners,0.376108665
+Pink Elephant,37.4669,-105.8646,Alamosa,81101,ALAMOSA,71,,COMMERCIAL,Asbestos;#2,,,,,0.4,2010,The Alamosa County Economic Development Corp.,0.461829994
+Pubelo Cooperative Care Center,38.2765,-104.6114,Pueblo,81003,PUEBLO,72,,COMMERCIAL,Asbestos;#2,,,,,0.5,2010,Pueblo Cooperative Care Center,0.373407333
+Pueblo Ice House,38.2722,-104.615,Pueblo,81003,PUEBLO,49,,MIXED - INDUST+COM,Asbestos;#2,,Asbestos;#2,,,0.6,2009,Pueblo County - Department of Public Works,0.273443225
+Pueblo Railroad Right of Way,38.2656,-104.6057,Pueblo,80467,PUEBLO,51,Up Gradient Source;#10,INDUSTRIAL,,,Arsenic;#8;#Lead;#7;#Heavy Metals;#9,PCE;#12,,3.3,2005,City of Pueblo,0.255883571
+Rifle Creek Movie Theater,39.5328,-107.7824,Rifle,81650,GARFIELD,75,,COMMERCIAL,Asbestos;#2,,,,,0.1,2010,City of Rifle,0.42177857
+Rose-Walsh Smelter Site,37.808106,-107.675886,,81433,SAN JUAN,89,Brownfield Cleanup Grant;#12,RESIDENTIAL,,,Arsenic;#8;#Lead;#7;#SLAG;#22,,,13.8,2009,San Juan County,0.530003336
+Salida Gun Club,38.5434,-106.0257,Salida,81201,CHAFFEE,22,Gun Range;#14,COMMERCIAL,,,Lead;#7,,,17,2001,The City of Salida,0.491695334
+Sand Creek Greenway,39.7529,-104.8084,Aurora,80011,ADAMS,5,Landfill;#9,INDUSTRIAL,,,,,,4.1,2009,City of Aurora,0.369195479
+Shoe Basin Mine,39.6097,-105.799,Unincorporated,0,SUMMIT,66,Revolving Loan Fund Site;#5,RECREATIONAL,,,,,Heavy Metals;#9;#Lead;#7,1.5,2005,Summit County,0.593322071
+Silver Cliff - Geyser Park Rest Area,38.136634,-105.441331,Silver Cliff,81252,CUSTER,79,,,,,,,,2.02,2012,The Town of Silver Cliff,0.361802667
+State Fairgrounds Navy Buildings,38.244618,-104.640377,Pueblo,81004,PUEBLO,86,1306 Site;#2,,,,,,,0,2012,Colo Dept Agriculture,0.341068749
+Sterling Manufactured Gas Plant (Former) (Sections A&B),40.624508,-103.214126,Sterling,80751,LOGAN,77,Manufactured Gas Plant;#21,COMMERCIAL,,,Semi VOC's;#16,Semi VOC's;#16;#BTEX;#6,,1.2,2012,"Centennial Mental Health Center, Inc.",0.406205334
+Stratton Junk Yard,39.304,-102.6048,Stratton,80836,KIT CARSON,73,,COMMERCIAL,Asbestos;#2,,,,,0.4,2010,East Central Council of Local Governments (ECCOG),0.420991612
+Ute- Ulay Townsite,38.0209,-107.3774,Lake City,0,HINSDALE,74,Mine Scarred Land Site;#7,OTHER,Asbestos;#2,,Arsenic;#8;#Lead;#7,,,4,2010,Hinsdale County,0.593735488
+Ute-Ulay Mine and Mill Site,38.0196,-107.377,Lake City,0,HINSDALE,80,Mine Scarred Land Site;#7,OTHER,Asbestos;#2,,Heavy Metals;#9;#Lead;#7;#Mine Waste/Tailings;#3;#Arsenic;#8,,,4,1899,Hinsdale County,0.590063873
+Vacant Site (Sections C&D),40.6242,-103.2143,Sterling,80751,LOGAN,83,,COMMERCIAL,,,,,,1.1,2012,Centennial Mental Health Center (CMHC),0.411145162
+Villa Italia Mall,39.7073,-105.0776,Lakewood,80226,JEFFERSON,28,,MIXED - COM+RES,,,PCE;#12;#PCB's;#17;#Petroleum contaminated soils;#360,PCE;#12;#TPH;#10,,103,2002,City of Lakewood and Continuum Lakewood Development Company LLC,0.435284668
+Westlake Dry Cleaners,40.4075,-105.1008,Loveland,80538,LARIMER,30,,COMMERCIAL,,,,PCE;#12,,0.2,1998,City of Loveland,0.45639333
+White Water Park Site,39.762,-105.6384,Empire,80438,CLEAR CREEK,17,,RECREATIONAL,,,,,,11.8,2006,Clear Creek County,0.611259994
+Willow Creek Floodplain,37.836826,-106.920014,Creede,81130,MINERAL,26,CERCLIS Site;#4,RECREATIONAL,,,,,,102.99,2008,The City of Creede,0.297096429
+Escuela Tlateloco,39.75951,-105.025763,Denver,0,DENVER,97,1306 Site;#2,,Asbestos;#2,,,,,0,2008,,0.445442757
+Elysian Park,39.740105,-104.985448,Jamestown,0,BOULDER,12,Revolving Loan Fund Site;#5,RECREATIONAL,,,Heavy Metals;#9;#Arsenic;#8;#Lead;#7;#Mine Waste/Tailings;#3,,,13.4,2006,Town of Jamestown,0.251360711
+Buckshot Industries,38.216892,-103.734311,Ordway,0,CROWLEY,21,Landfill;#9,COMMERCIAL,,,Asbestos;#2;#Heavy Metals;#9;#MTBE/TPH;#26,,,8,2007,Crowley County,0.267892141
+Bent County High School,38.065413,-103.232511,Las Animas,0,BENT,98,1306 Site;#2,,Asbestos;#2,,,,,0,2012,Bent County,0.400093335
+Former Genoa School Asbestos Abatement,39.280136,-103.496914,Genoa,0,LINCOLN,99,,,,,,,,1.7,2010,Town of Genoa,0.358991877
+Fort Collins Discovery Museum,40.593519,-105.077985,Fort Collins,0,LARIMER,94,,,,,Asbestos;#2;#O&G;#24,,,40,2010,City of Fort Collins,0.446187405
+Kit Carson Affordable Housing,38.763359,-102.793655,Kit Carson,0,CHEYENNE,96,1306 Site;#2,RESIDENTIAL,Asbestos;#2,,,,,0,2011,"Kit Carson Rural Development, a 501c3 non-profit",0.36738715
+La Junta Gas Station,37.978703,-103.546005,La Junta,0,OTERO,40,Underground Storage Tank;#3,MIXED - COM+RES,,,Petroleum contaminated soils;#360,,,0.5,2005,City of La Junta,0.359772139
+Mineral County Fairgrounds,37.825181,-106.914901,Creede,0,MINERAL,26,CERCLIS Site;#4,RECREATIONAL,,,Lead;#7,,,40,2008,"Mineral County Fairgrounds Association, a 501c3 non-profit",0.253929656
+Montrose UP Railroad Corridor,38.454822,-107.875079,Montrose,0,MONTROSE,38,,COMMERCIAL,,,,,,30,2008,City of Montrose,0.431329284
+Park County Offices,39.22441,-105.994922,Fairplay,0,PARK,100,1306 Site;#2,COMMERCIAL,Asbestos;#2,,,,,0,2011,,0.418106895
+Peanut Mine,38.888594,-107.004643,Crested Butte,0,GUNNISON,93,1306 Site;#2;#Mine Scarred Land Site;#7,RECREATIONAL,,,Mine Waste/Tailings;#3,,,0,2005,,0.7074245
+Pleasant View PCE,39.732675,-105.172594,Golden,0,JEFFERSON,92,,,,,,,,0,2002,,0.429395
+Sand Creek Landfill,39.752916,-104.808411,Aurora,0,ADAMS,5,Landfill;#9,INDUSTRIAL,,,,,,4.1,2009,City of Aurora,0.369195479
+Shoe Basin Mine,39.609778,-105.799021,Unincorporated,0,SUMMIT,66,Revolving Loan Fund Site;#5,RECREATIONAL,,,,,Heavy Metals;#9;#Lead;#7,1.5,2005,Summit County,0.593322071
+SLV Habitat for Humanity Site,37.468331,-105.864311,Alamosa,0,ALAMOSA,90,,,,,,,,0.172,2014,San Luis Valley Habitat for Humanity,0.48763937
+Thornton Redevelopment,39.855277,-104.977917,Thornton,0,ADAMS,95,1306 Site;#2;#Dry Cleaner;#8,COMMERCIAL,,,PCE;#12,,,13.5,2006,Thornton Development Authority,0.374057143
+Westwood Food Hub Site,39.70775,-105.0368,Denver,0,DENVER,91,,INDUSTRIAL,,,,,,1.702,2014,Revision International,0.414941334
+White Hall,39.069444,-108.562121,Grand Junction,0,MESA,101,Other;#13;#1306 Site;#2,MIXED - COM+RES,,,Asbestos;#2,,,1.5,2012,Grand Junction Downtown Development Authority,0.321692
